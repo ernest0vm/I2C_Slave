@@ -1,0 +1,1852 @@
+Archive member included because of file (symbol)
+
+C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(wiring.o)
+                              ./I2C_Slave.o (delay)
+C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(wiring_digital.o)
+                              ./I2C_Slave.o (pinMode)
+C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(main.o)
+                              (main)
+C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(Wire.o)
+                              ./I2C_Slave.o (TwoWire::read())
+C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(twi.o)
+                              C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(Wire.o) (twi_setModule)
+C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(usci_isr_handler.o)
+                              C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(twi.o) (usci_isr_install)
+C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(HardwareSerial.o)
+                              C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(usci_isr_handler.o) (uart_rx_isr)
+C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(new.o)
+                              C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(Wire.o) (__cxa_pure_virtual)
+C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(Print.o)
+                              C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(Wire.o) (Print::write(unsigned char const*, unsigned int))
+C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(WString.o)
+                              C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(Print.o) (String::operator[](unsigned int) const)
+C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(atof.o)
+                              C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(WString.o) (atof)
+C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(dtostrf.o)
+                              C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(WString.o) (dtostrf)
+C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(itoa.o)
+                              C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(WString.o) (ltoa)
+c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libm.a(ef_pow.o)
+                              C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(dtostrf.o) (powf)
+c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libm.a(sf_scalbn.o)
+                              c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libm.a(ef_pow.o) (scalbnf)
+c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libm.a(ef_sqrt.o)
+                              c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libm.a(ef_pow.o) (__ieee754_sqrtf)
+c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_mulqi3.o)
+                              C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(Print.o) (__mulqi3)
+c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_udivmod16.o)
+                              C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(wiring.o) (__udivhi3)
+c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_udivmod32.o)
+                              C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(wiring.o) (__udivsi3)
+c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_fixunssfsi.o)
+                              C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(Print.o) (__fixunssfsi)
+c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_addsub_sf.o)
+                              C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(Print.o) (__addsf3)
+c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_mul_sf.o)
+                              C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(Print.o) (__mulsf3)
+c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_div_sf.o)
+                              C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(Print.o) (__divsf3)
+c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_gt_sf.o)
+                              c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libm.a(ef_pow.o) (__gtsf2)
+c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_ge_sf.o)
+                              c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_fixunssfsi.o) (__gesf2)
+c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_lt_sf.o)
+                              C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(Print.o) (__ltsf2)
+c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_le_sf.o)
+                              c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libm.a(ef_pow.o) (__lesf2)
+c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_si_to_sf.o)
+                              C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(Print.o) (__floatsisf)
+c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_sf_to_si.o)
+                              C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(Print.o) (__fixsfsi)
+c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_thenan_sf.o)
+                              c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_addsub_sf.o) (__thenan_sf)
+c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_usi_to_sf.o)
+                              C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(Print.o) (__floatunsisf)
+c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_clzsi2.o)
+                              c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_si_to_sf.o) (__clzsi2)
+c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_pack_sf.o)
+                              c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_addsub_sf.o) (__pack_f)
+c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_unpack_sf.o)
+                              c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_addsub_sf.o) (__unpack_f)
+c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_fpcmp_parts_sf.o)
+                              c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_gt_sf.o) (__fpcmp_parts_f)
+c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_clz.o)
+                              c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_clzsi2.o) (__clz_tab)
+c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strchr.o)
+                              C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(WString.o) (strchr)
+c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strcmp.o)
+                              C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(WString.o) (strcmp)
+c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strncmp.o)
+                              C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(WString.o) (strncmp)
+c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strcpy.o)
+                              C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(WString.o) (strcpy)
+c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strncpy.o)
+                              C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(WString.o) (strncpy)
+c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(memcpy.o)
+                              C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(WString.o) (memcpy)
+c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(memmove.o)
+                              C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(WString.o) (memmove)
+c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strrchr.o)
+                              C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(WString.o) (strrchr)
+c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strstr.o)
+                              C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(WString.o) (strstr)
+c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(atol.o)
+                              C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(WString.o) (atol)
+c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(malloc.o)
+                              C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(new.o) (malloc)
+c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strtol.o)
+                              c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(atol.o) (strtol)
+c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(sprintf.o)
+                              C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(dtostrf.o) (sprintf)
+c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(vuprintf.o)
+                              c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(sprintf.o) (vuprintf)
+c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(ldiv.o)
+                              c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strtol.o) (ldiv)
+c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(errno.o)
+                              c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strtol.o) (errno)
+c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_mulsi3.o)
+                              c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strtol.o) (__mulsi3)
+c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_divmod32.o)
+                              c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(ldiv.o) (__ext_divmod32)
+c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_udivmod64.o)
+                              c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(vuprintf.o) (__udivdi3)
+c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(_reset_vector__.o)
+                              c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/crt0ivtbl16.o (_reset_vector__)
+c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(__watchdog_support.o)
+                              c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(_reset_vector__.o) (__watchdog_support)
+c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(__init_stack.o)
+                              c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(_reset_vector__.o) (__init_stack)
+c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(__low_level_init.o)
+                              c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(_reset_vector__.o) (__low_level_init)
+c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(_copy_data.o)
+                              c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(_reset_vector__.o) (__do_copy_data)
+c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(_clear_bss.o)
+                              c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(_reset_vector__.o) (__do_clear_bss)
+c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(__stop_progExec__.o)
+                              c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(_reset_vector__.o) (__stop_progExec__)
+c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(_endless_loop__.o)
+                              c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(_reset_vector__.o) (_endless_loop__)
+c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(_unexpected_.o)
+                              c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/crt0ivtbl16.o (_unexpected_)
+c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(_ctors430.o)
+                              C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(Wire.o) (__do_global_ctors)
+
+Allocating common symbols
+Common symbol       size              file
+
+errno               0x2               c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(errno.o)
+SMILLIS_INC         0x2               C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(wiring.o)
+SFRACT_INC          0x2               C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(wiring.o)
+
+Discarded input sections
+
+ .data          0x00000000        0x0 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/crt0ivtbl16.o
+ .bss           0x00000000        0x0 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/crt0ivtbl16.o
+ .text.crt0     0x00000000        0x0 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/crt0ivtbl16.o
+ .text          0x00000000        0x0 ./I2C_Slave.o
+ .data          0x00000000        0x0 ./I2C_Slave.o
+ .bss           0x00000000        0x0 ./I2C_Slave.o
+ .text          0x00000000        0x0 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(wiring.o)
+ .data          0x00000000        0x0 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(wiring.o)
+ .bss           0x00000000        0x0 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(wiring.o)
+ .text.disableWatchDog
+                0x00000000        0x8 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(wiring.o)
+ .text.enableWatchDog
+                0x00000000        0xc C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(wiring.o)
+ .text.enableWatchDogIntervalMode
+                0x00000000        0xc C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(wiring.o)
+ .text.micros   0x00000000       0x24 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(wiring.o)
+ .text.millis   0x00000000       0x12 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(wiring.o)
+ .text.delayMicroseconds
+                0x00000000       0x12 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(wiring.o)
+ .text.sleepSeconds
+                0x00000000       0xf2 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(wiring.o)
+ .text.sleep    0x00000000      0x104 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(wiring.o)
+ .text.suspend  0x00000000       0x32 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(wiring.o)
+ .text          0x00000000        0x0 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(wiring_digital.o)
+ .data          0x00000000        0x0 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(wiring_digital.o)
+ .bss           0x00000000        0x0 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(wiring_digital.o)
+ .rodata.digital_pin_to_analog_in
+                0x00000000       0x54 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(wiring_digital.o)
+ .rodata.digital_pin_to_timer
+                0x00000000       0x15 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(wiring_digital.o)
+ .text          0x00000000        0x0 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(main.o)
+ .data          0x00000000        0x0 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(main.o)
+ .bss           0x00000000        0x0 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(main.o)
+ .text          0x00000000        0x0 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(Wire.o)
+ .data          0x00000000        0x0 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(Wire.o)
+ .bss           0x00000000        0x0 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(Wire.o)
+ .text._ZN7TwoWireC2Ev
+                0x00000000       0x16 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(Wire.o)
+ .text._ZN7TwoWireC2Eh
+                0x00000000       0x1c C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(Wire.o)
+ .text._ZN7TwoWire11requestFromEhhh
+                0x00000000       0x1e C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(Wire.o)
+ .text._ZN7TwoWire11requestFromEhh
+                0x00000000        0x8 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(Wire.o)
+ .text._ZN7TwoWire11requestFromEii
+                0x00000000        0x8 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(Wire.o)
+ .text._ZN7TwoWire11requestFromEiii
+                0x00000000        0x6 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(Wire.o)
+ .text._ZN7TwoWire17beginTransmissionEh
+                0x00000000       0x12 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(Wire.o)
+ .text._ZN7TwoWire17beginTransmissionEi
+                0x00000000       0x12 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(Wire.o)
+ .text._ZN7TwoWire15endTransmissionEh
+                0x00000000       0x24 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(Wire.o)
+ .text._ZN7TwoWire15endTransmissionEv
+                0x00000000        0x8 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(Wire.o)
+ .text._ZN7TwoWire9setModuleEh
+                0x00000000        0x8 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(Wire.o)
+ .bss._ZN7TwoWire9txAddressE
+                0x00000000        0x1 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(Wire.o)
+ .rodata._ZTV6Stream
+                0x00000000       0x10 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(Wire.o)
+ .text          0x00000000        0x0 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(twi.o)
+ .data          0x00000000        0x0 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(twi.o)
+ .bss           0x00000000        0x0 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(twi.o)
+ .text.twi_setModule
+                0x00000000        0xc C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(twi.o)
+ .text.twi_readFrom
+                0x00000000       0xfc C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(twi.o)
+ .text.twi_writeTo
+                0x00000000       0xf6 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(twi.o)
+ .text          0x00000000        0x0 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(usci_isr_handler.o)
+ .data          0x00000000        0x0 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(usci_isr_handler.o)
+ .bss           0x00000000        0x0 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(usci_isr_handler.o)
+ .text          0x00000000        0x0 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(HardwareSerial.o)
+ .data          0x00000000        0x0 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(HardwareSerial.o)
+ .bss           0x00000000        0x0 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(HardwareSerial.o)
+ .text._ZN14HardwareSerial5beginEm
+                0x00000000      0x136 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(HardwareSerial.o)
+ .text._ZN14HardwareSerial3endEv
+                0x00000000       0x1c C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(HardwareSerial.o)
+ .text._ZN14HardwareSerialcvbEv
+                0x00000000        0x4 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(HardwareSerial.o)
+ .text          0x00000000        0x0 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(new.o)
+ .data          0x00000000        0x0 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(new.o)
+ .bss           0x00000000        0x0 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(new.o)
+ .text._Znwj    0x00000000        0x6 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(new.o)
+ .text._ZdlPv   0x00000000        0x6 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(new.o)
+ .text.__cxa_guard_acquire
+                0x00000000        0xe C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(new.o)
+ .text.__cxa_guard_release
+                0x00000000        0x6 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(new.o)
+ .text.__cxa_guard_abort
+                0x00000000        0x2 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(new.o)
+ .text.__cxa_pure_virtual
+                0x00000000        0x2 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(new.o)
+ .text          0x00000000        0x0 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(Print.o)
+ .data          0x00000000        0x0 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(Print.o)
+ .bss           0x00000000        0x0 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(Print.o)
+ .text._ZN5Print5printERK6String
+                0x00000000       0x46 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(Print.o)
+ .text._ZN5Print5printEPKc
+                0x00000000       0x16 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(Print.o)
+ .text._ZN5Print5printEc
+                0x00000000        0x6 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(Print.o)
+ .text._ZN5Print5printERK9Printable
+                0x00000000        0xc C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(Print.o)
+ .text._ZN5Print7printlnEv
+                0x00000000       0x22 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(Print.o)
+ .text._ZN5Print7printlnERK6String
+                0x00000000       0x32 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(Print.o)
+ .text._ZN5Print7printlnEPKc
+                0x00000000       0x32 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(Print.o)
+ .text._ZN5Print7printlnEc
+                0x00000000       0x32 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(Print.o)
+ .text._ZN5Print7printlnERK9Printable
+                0x00000000       0x36 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(Print.o)
+ .text._ZN5Print11printNumberEmh
+                0x00000000       0xa4 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(Print.o)
+ .text._ZN5Print5printEmi
+                0x00000000       0x22 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(Print.o)
+ .text._ZN5Print7printlnEmi
+                0x00000000       0x32 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(Print.o)
+ .text._ZN5Print5printEji
+                0x00000000        0xc C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(Print.o)
+ .text._ZN5Print7printlnEji
+                0x00000000       0x32 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(Print.o)
+ .text._ZN5Print5printEhi
+                0x00000000        0xc C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(Print.o)
+ .text._ZN5Print7printlnEhi
+                0x00000000       0x32 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(Print.o)
+ .text._ZN5Print5printEli
+                0x00000000       0x7c C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(Print.o)
+ .text._ZN5Print7printlnEli
+                0x00000000       0x32 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(Print.o)
+ .text._ZN5Print5printEii
+                0x00000000       0x18 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(Print.o)
+ .text._ZN5Print7printlnEii
+                0x00000000       0x32 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(Print.o)
+ .rodata._ZN5Print10printFloatEdh
+                0x00000000        0x2 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(Print.o)
+ .text._ZN5Print10printFloatEdh
+                0x00000000      0x126 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(Print.o)
+ .text._ZN5Print5printEdi
+                0x00000000        0x6 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(Print.o)
+ .text._ZN5Print7printlnEdi
+                0x00000000       0x32 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(Print.o)
+ .rodata._ZTV5Print
+                0x00000000        0x8 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(Print.o)
+ .text          0x00000000        0x0 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(WString.o)
+ .data          0x00000000        0x0 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(WString.o)
+ .bss           0x00000000        0x0 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZN6StringD2Ev
+                0x00000000        0x8 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZN6String10invalidateEv
+                0x00000000       0x1e C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZN6String12changeBufferEj
+                0x00000000       0x44 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZN6String7reserveEj
+                0x00000000       0x38 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZN6String4copyEPKcj
+                0x00000000       0x3c C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZN6StringC2EPKc
+                0x00000000       0x24 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZN6String4copyEPK19__FlashStringHelperj
+                0x00000000       0x3c C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZN6StringaSERKS_
+                0x00000000       0x28 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZN6StringC2ERKS_
+                0x00000000       0x12 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZN6StringaSEPKc
+                0x00000000       0x2c C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZN6StringC2Edh
+                0x00000000       0x42 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZN6StringC2Efh
+                0x00000000       0x42 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZN6StringC2Emh
+                0x00000000       0x30 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZN6StringC2Elh
+                0x00000000       0x30 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZN6StringC2Ejh
+                0x00000000       0x2e C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZN6StringC2Eih
+                0x00000000       0x2e C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZN6StringC2Ehh
+                0x00000000       0x2e C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZN6StringC2Ec
+                0x00000000       0x20 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZN6StringaSEPK19__FlashStringHelper
+                0x00000000       0x2c C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZN6StringC2EPK19__FlashStringHelper
+                0x00000000       0x12 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZN6String6concatEPKcj
+                0x00000000       0x52 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZN6String6concatERKS_
+                0x00000000        0xc C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZN6String6concatEPKc
+                0x00000000       0x1c C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZN6String6concatEc
+                0x00000000       0x16 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZN6String6concatEh
+                0x00000000       0x30 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZN6String6concatEi
+                0x00000000       0x30 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZN6String6concatEj
+                0x00000000       0x30 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZN6String6concatEl
+                0x00000000       0x34 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZN6String6concatEm
+                0x00000000       0x34 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZN6String6concatEf
+                0x00000000       0x44 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZN6String6concatEd
+                0x00000000       0x44 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZN6String6concatEPK19__FlashStringHelper
+                0x00000000       0x5e C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZplRK15StringSumHelperRK6String
+                0x00000000       0x1e C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZplRK15StringSumHelperPKc
+                0x00000000       0x2c C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZplRK15StringSumHelperc
+                0x00000000       0x18 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZplRK15StringSumHelperh
+                0x00000000       0x18 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZplRK15StringSumHelperi
+                0x00000000       0x18 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZplRK15StringSumHelperj
+                0x00000000       0x18 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZplRK15StringSumHelperl
+                0x00000000       0x18 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZplRK15StringSumHelperm
+                0x00000000       0x18 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZplRK15StringSumHelperf
+                0x00000000       0x18 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZplRK15StringSumHelperd
+                0x00000000       0x18 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZplRK15StringSumHelperPK19__FlashStringHelper
+                0x00000000       0x18 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZNK6String9compareToERKS_
+                0x00000000       0x3a C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZNK6String6equalsERKS_
+                0x00000000       0x1c C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZNK6String6equalsEPKc
+                0x00000000       0x36 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZNK6StringltERKS_
+                0x00000000        0xe C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZNK6StringgtERKS_
+                0x00000000       0x16 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZNK6StringleERKS_
+                0x00000000       0x12 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZNK6StringgeERKS_
+                0x00000000       0x10 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZNK6String16equalsIgnoreCaseERKS_
+                0x00000000       0x64 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZNK6String10startsWithERKS_j
+                0x00000000       0x32 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZNK6String10startsWithERKS_
+                0x00000000       0x14 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZNK6String8endsWithERKS_
+                0x00000000       0x2c C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZNK6String6charAtEj
+                0x00000000       0x1a C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZN6String9setCharAtEjc
+                0x00000000        0xe C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZN6StringixEj
+                0x00000000       0x1a C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZNK6StringixEj
+                0x00000000       0x1a C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZNK6String8getBytesEPhjj
+                0x00000000       0x48 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZNK6String7indexOfEcj
+                0x00000000       0x48 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZNK6String7indexOfEc
+                0x00000000        0x8 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZNK6String7indexOfERKS_j
+                0x00000000       0x48 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZNK6String7indexOfERKS_
+                0x00000000        0x8 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZNK6String11lastIndexOfEcj
+                0x00000000       0x64 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZNK6String11lastIndexOfEc
+                0x00000000        0xc C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZNK6String11lastIndexOfERKS_j
+                0x00000000       0x9e C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZNK6String11lastIndexOfERKS_
+                0x00000000        0xe C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(WString.o)
+ .rodata._ZNK6String9substringEjj
+                0x00000000        0x1 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZNK6String9substringEjj
+                0x00000000       0x5c C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZN6String7replaceEcc
+                0x00000000       0x22 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZN6String7replaceERKS_S1_
+                0x00000000      0x1be C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZN6String6removeEjj
+                0x00000000       0x46 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZN6String6removeEj
+                0x00000000        0x8 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZN6String11toLowerCaseEv
+                0x00000000       0x2e C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZN6String11toUpperCaseEv
+                0x00000000       0x2e C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZN6String4trimEv
+                0x00000000       0xa4 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZNK6String5toIntEv
+                0x00000000       0x12 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(WString.o)
+ .text._ZNK6String7toFloatEv
+                0x00000000       0x12 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(WString.o)
+ .bss._ZZN6StringixEjE19dummy_writable_char
+                0x00000000        0x1 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(WString.o)
+ .text          0x00000000        0x0 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(atof.o)
+ .data          0x00000000        0x0 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(atof.o)
+ .bss           0x00000000        0x0 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(atof.o)
+ .text.atof     0x00000000      0x262 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(atof.o)
+ .text          0x00000000        0x0 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(dtostrf.o)
+ .data          0x00000000        0x0 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(dtostrf.o)
+ .bss           0x00000000        0x0 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(dtostrf.o)
+ .rodata.dtostrf
+                0x00000000        0xe C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(dtostrf.o)
+ .text.dtostrf  0x00000000       0xd0 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(dtostrf.o)
+ .text          0x00000000        0x0 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(itoa.o)
+ .data          0x00000000        0x0 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(itoa.o)
+ .bss           0x00000000        0x0 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(itoa.o)
+ .text.ltoa     0x00000000       0xf4 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(itoa.o)
+ .text.itoa     0x00000000       0x1a C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(itoa.o)
+ .text.ultoa    0x00000000       0xc8 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(itoa.o)
+ .text.utoa     0x00000000        0x6 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(itoa.o)
+ .text          0x00000000      0xd84 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libm.a(ef_pow.o)
+ .data          0x00000000        0x0 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libm.a(ef_pow.o)
+ .bss           0x00000000        0x0 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libm.a(ef_pow.o)
+ .rodata        0x00000000       0x18 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libm.a(ef_pow.o)
+ .text          0x00000000      0x184 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libm.a(sf_scalbn.o)
+ .data          0x00000000        0x0 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libm.a(sf_scalbn.o)
+ .bss           0x00000000        0x0 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libm.a(sf_scalbn.o)
+ .text          0x00000000      0x16e c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libm.a(ef_sqrt.o)
+ .data          0x00000000        0x0 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libm.a(ef_sqrt.o)
+ .bss           0x00000000        0x0 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libm.a(ef_sqrt.o)
+ .text          0x00000000        0x0 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_mulqi3.o)
+ .data          0x00000000        0x0 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_mulqi3.o)
+ .bss           0x00000000        0x0 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_mulqi3.o)
+ .text.libgcc   0x00000000       0x16 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_mulqi3.o)
+ .text          0x00000000        0x0 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_udivmod16.o)
+ .data          0x00000000        0x0 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_udivmod16.o)
+ .bss           0x00000000        0x0 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_udivmod16.o)
+ .text.libgcc   0x00000000       0x22 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_udivmod16.o)
+ .text          0x00000000        0x0 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_udivmod32.o)
+ .data          0x00000000        0x0 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_udivmod32.o)
+ .bss           0x00000000        0x0 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_udivmod32.o)
+ .text.libgcc   0x00000000       0x40 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_udivmod32.o)
+ .text          0x00000000       0x42 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_fixunssfsi.o)
+ .data          0x00000000        0x0 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_fixunssfsi.o)
+ .bss           0x00000000        0x0 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_fixunssfsi.o)
+ .text          0x00000000      0x32e c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_addsub_sf.o)
+ .data          0x00000000        0x0 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_addsub_sf.o)
+ .bss           0x00000000        0x0 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_addsub_sf.o)
+ .text          0x00000000      0x224 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_mul_sf.o)
+ .data          0x00000000        0x0 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_mul_sf.o)
+ .bss           0x00000000        0x0 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_mul_sf.o)
+ .text          0x00000000      0x150 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_div_sf.o)
+ .data          0x00000000        0x0 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_div_sf.o)
+ .bss           0x00000000        0x0 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_div_sf.o)
+ .text          0x00000000       0x50 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_gt_sf.o)
+ .data          0x00000000        0x0 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_gt_sf.o)
+ .bss           0x00000000        0x0 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_gt_sf.o)
+ .text          0x00000000       0x50 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_ge_sf.o)
+ .data          0x00000000        0x0 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_ge_sf.o)
+ .bss           0x00000000        0x0 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_ge_sf.o)
+ .text          0x00000000       0x50 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_lt_sf.o)
+ .data          0x00000000        0x0 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_lt_sf.o)
+ .bss           0x00000000        0x0 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_lt_sf.o)
+ .text          0x00000000       0x50 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_le_sf.o)
+ .data          0x00000000        0x0 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_le_sf.o)
+ .bss           0x00000000        0x0 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_le_sf.o)
+ .text          0x00000000       0xa6 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_si_to_sf.o)
+ .data          0x00000000        0x0 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_si_to_sf.o)
+ .bss           0x00000000        0x0 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_si_to_sf.o)
+ .text          0x00000000       0x90 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_sf_to_si.o)
+ .data          0x00000000        0x0 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_sf_to_si.o)
+ .bss           0x00000000        0x0 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_sf_to_si.o)
+ .text          0x00000000        0x0 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_thenan_sf.o)
+ .data          0x00000000        0x0 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_thenan_sf.o)
+ .bss           0x00000000        0x0 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_thenan_sf.o)
+ .rodata        0x00000000        0x8 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_thenan_sf.o)
+ .text          0x00000000       0xe2 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_usi_to_sf.o)
+ .data          0x00000000        0x0 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_usi_to_sf.o)
+ .bss           0x00000000        0x0 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_usi_to_sf.o)
+ .text          0x00000000       0x72 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_clzsi2.o)
+ .data          0x00000000        0x0 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_clzsi2.o)
+ .bss           0x00000000        0x0 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_clzsi2.o)
+ .text          0x00000000      0x1de c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_pack_sf.o)
+ .data          0x00000000        0x0 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_pack_sf.o)
+ .bss           0x00000000        0x0 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_pack_sf.o)
+ .text          0x00000000      0x124 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_unpack_sf.o)
+ .data          0x00000000        0x0 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_unpack_sf.o)
+ .bss           0x00000000        0x0 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_unpack_sf.o)
+ .text          0x00000000       0xa4 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_fpcmp_parts_sf.o)
+ .data          0x00000000        0x0 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_fpcmp_parts_sf.o)
+ .bss           0x00000000        0x0 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_fpcmp_parts_sf.o)
+ .text          0x00000000        0x0 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_clz.o)
+ .data          0x00000000        0x0 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_clz.o)
+ .bss           0x00000000        0x0 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_clz.o)
+ .rodata        0x00000000      0x100 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_clz.o)
+ .text          0x00000000       0x12 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strchr.o)
+ .data          0x00000000        0x0 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strchr.o)
+ .bss           0x00000000        0x0 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strchr.o)
+ .text          0x00000000       0x1e c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strcmp.o)
+ .data          0x00000000        0x0 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strcmp.o)
+ .bss           0x00000000        0x0 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strcmp.o)
+ .text          0x00000000       0x28 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strncmp.o)
+ .data          0x00000000        0x0 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strncmp.o)
+ .bss           0x00000000        0x0 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strncmp.o)
+ .text          0x00000000       0x14 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strcpy.o)
+ .data          0x00000000        0x0 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strcpy.o)
+ .bss           0x00000000        0x0 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strcpy.o)
+ .text          0x00000000       0x2a c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strncpy.o)
+ .data          0x00000000        0x0 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strncpy.o)
+ .bss           0x00000000        0x0 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strncpy.o)
+ .text          0x00000000       0xfa c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(memcpy.o)
+ .data          0x00000000        0x0 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(memcpy.o)
+ .bss           0x00000000        0x0 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(memcpy.o)
+ .text          0x00000000       0xfa c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(memmove.o)
+ .data          0x00000000        0x0 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(memmove.o)
+ .bss           0x00000000        0x0 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(memmove.o)
+ .text          0x00000000       0x1e c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strrchr.o)
+ .data          0x00000000        0x0 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strrchr.o)
+ .bss           0x00000000        0x0 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strrchr.o)
+ .text          0x00000000       0x56 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strstr.o)
+ .data          0x00000000        0x0 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strstr.o)
+ .bss           0x00000000        0x0 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strstr.o)
+ .text          0x00000000        0xc c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(atol.o)
+ .data          0x00000000        0x0 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(atol.o)
+ .bss           0x00000000        0x0 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(atol.o)
+ .text          0x00000000      0x110 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(malloc.o)
+ .data          0x00000000        0x0 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(malloc.o)
+ .bss           0x00000000        0x1 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(malloc.o)
+ .text          0x00000000      0x1b8 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strtol.o)
+ .data          0x00000000        0x0 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strtol.o)
+ .bss           0x00000000        0x0 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strtol.o)
+ .text          0x00000000       0xbc c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(sprintf.o)
+ .data          0x00000000        0x0 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(sprintf.o)
+ .bss           0x00000000        0x4 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(sprintf.o)
+ .text          0x00000000      0x836 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(vuprintf.o)
+ .data          0x00000000        0x0 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(vuprintf.o)
+ .bss           0x00000000        0x0 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(vuprintf.o)
+ .rodata        0x00000000        0x7 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(vuprintf.o)
+ .text          0x00000000        0x0 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(ldiv.o)
+ .data          0x00000000        0x0 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(ldiv.o)
+ .bss           0x00000000        0x0 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(ldiv.o)
+ .text.ldiv     0x00000000       0x12 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(ldiv.o)
+ .text          0x00000000        0x0 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(errno.o)
+ .data          0x00000000        0x0 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(errno.o)
+ .bss           0x00000000        0x0 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(errno.o)
+ COMMON         0x00000000        0x2 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(errno.o)
+ .text          0x00000000        0x0 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_mulsi3.o)
+ .data          0x00000000        0x0 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_mulsi3.o)
+ .bss           0x00000000        0x0 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_mulsi3.o)
+ .text.libgcc   0x00000000       0x2c c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_mulsi3.o)
+ .text          0x00000000        0x0 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_divmod32.o)
+ .data          0x00000000        0x0 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_divmod32.o)
+ .bss           0x00000000        0x0 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_divmod32.o)
+ .text.libgcc   0x00000000       0x4c c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_divmod32.o)
+ .text          0x00000000        0x0 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_udivmod64.o)
+ .data          0x00000000        0x0 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_udivmod64.o)
+ .bss           0x00000000        0x0 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_udivmod64.o)
+ .text.libgcc   0x00000000       0xf0 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_udivmod64.o)
+ .text          0x00000000        0x0 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(_reset_vector__.o)
+ .data          0x00000000        0x0 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(_reset_vector__.o)
+ .bss           0x00000000        0x0 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(_reset_vector__.o)
+ .text          0x00000000        0x0 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(__watchdog_support.o)
+ .data          0x00000000        0x0 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(__watchdog_support.o)
+ .bss           0x00000000        0x0 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(__watchdog_support.o)
+ .text          0x00000000        0x0 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(__init_stack.o)
+ .data          0x00000000        0x0 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(__init_stack.o)
+ .bss           0x00000000        0x0 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(__init_stack.o)
+ .text          0x00000000        0x0 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(__low_level_init.o)
+ .data          0x00000000        0x0 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(__low_level_init.o)
+ .bss           0x00000000        0x0 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(__low_level_init.o)
+ .text          0x00000000        0x0 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(_copy_data.o)
+ .data          0x00000000        0x0 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(_copy_data.o)
+ .bss           0x00000000        0x0 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(_copy_data.o)
+ .text          0x00000000        0x0 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(_clear_bss.o)
+ .data          0x00000000        0x0 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(_clear_bss.o)
+ .bss           0x00000000        0x0 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(_clear_bss.o)
+ .text          0x00000000        0x0 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(__stop_progExec__.o)
+ .data          0x00000000        0x0 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(__stop_progExec__.o)
+ .bss           0x00000000        0x0 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(__stop_progExec__.o)
+ .text          0x00000000        0x0 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(_endless_loop__.o)
+ .data          0x00000000        0x0 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(_endless_loop__.o)
+ .bss           0x00000000        0x0 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(_endless_loop__.o)
+ .text          0x00000000        0x0 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(_unexpected_.o)
+ .data          0x00000000        0x0 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(_unexpected_.o)
+ .bss           0x00000000        0x0 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(_unexpected_.o)
+ .text          0x00000000        0x0 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(_ctors430.o)
+ .data          0x00000000        0x0 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(_ctors430.o)
+ .bss           0x00000000        0x0 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(_ctors430.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+sfr              0x00000000         0x00000010
+peripheral_8bit  0x00000010         0x000000f0
+peripheral_16bit 0x00000100         0x00000100
+ram              0x00000200         0x00000200         xw
+infomem          0x00001000         0x00000100
+infod            0x00001000         0x00000040
+infoc            0x00001040         0x00000040
+infob            0x00001080         0x00000040
+infoa            0x000010c0         0x00000040
+rom              0x0000c000         0x00003fe0         xr
+vectors          0x0000ffe0         0x00000020
+bsl              0x00000000         0x00000000
+ram2             0x00000000         0x00000000         xw
+ram_mirror       0x00000000         0x00000000         xw
+signature        0x00000000         0x00000000
+tinyram          0x00000000         0x00000000         xw
+usbram           0x00000000         0x00000000         xw
+far_rom          0x00000000         0x00000000
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/crt0ivtbl16.o
+LOAD ./I2C_Slave.o
+START GROUP
+LOAD C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a
+LOAD c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libm.a
+END GROUP
+LOAD c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a
+LOAD c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a
+LOAD c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a
+LOAD c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a
+                0x00000040                PROVIDE (__info_segment_size, 0x40)
+                0x00001000                PROVIDE (__infod, 0x1000)
+                0x00001040                PROVIDE (__infoc, 0x1040)
+                0x00001080                PROVIDE (__infob, 0x1080)
+                0x000010c0                PROVIDE (__infoa, 0x10c0)
+                0x00000000                __IE1 = 0x0
+                0x00000002                __IFG1 = 0x2
+                0x00000001                __IE2 = 0x1
+                0x00000003                __IFG2 = 0x3
+                0x00000048                __ADC10DTC0 = 0x48
+                0x00000049                __ADC10DTC1 = 0x49
+                0x0000004a                __ADC10AE0 = 0x4a
+                0x000001b0                __ADC10CTL0 = 0x1b0
+                0x000001b2                __ADC10CTL1 = 0x1b2
+                0x000001b4                __ADC10MEM = 0x1b4
+                0x000001bc                __ADC10SA = 0x1bc
+                0x00000056                __DCOCTL = 0x56
+                0x00000057                __BCSCTL1 = 0x57
+                0x00000058                __BCSCTL2 = 0x58
+                0x00000053                __BCSCTL3 = 0x53
+                0x00000059                __CACTL1 = 0x59
+                0x0000005a                __CACTL2 = 0x5a
+                0x0000005b                __CAPD = 0x5b
+                0x00000128                __FCTL1 = 0x128
+                0x0000012a                __FCTL2 = 0x12a
+                0x0000012c                __FCTL3 = 0x12c
+                0x00000020                __P1IN = 0x20
+                0x00000021                __P1OUT = 0x21
+                0x00000022                __P1DIR = 0x22
+                0x00000023                __P1IFG = 0x23
+                0x00000024                __P1IES = 0x24
+                0x00000025                __P1IE = 0x25
+                0x00000026                __P1SEL = 0x26
+                0x00000041                __P1SEL2 = 0x41
+                0x00000027                __P1REN = 0x27
+                0x00000028                __P2IN = 0x28
+                0x00000029                __P2OUT = 0x29
+                0x0000002a                __P2DIR = 0x2a
+                0x0000002b                __P2IFG = 0x2b
+                0x0000002c                __P2IES = 0x2c
+                0x0000002d                __P2IE = 0x2d
+                0x0000002e                __P2SEL = 0x2e
+                0x00000042                __P2SEL2 = 0x42
+                0x0000002f                __P2REN = 0x2f
+                0x00000018                __P3IN = 0x18
+                0x00000019                __P3OUT = 0x19
+                0x0000001a                __P3DIR = 0x1a
+                0x0000001b                __P3SEL = 0x1b
+                0x00000043                __P3SEL2 = 0x43
+                0x00000010                __P3REN = 0x10
+                0x0000012e                __TA0IV = 0x12e
+                0x00000160                __TA0CTL = 0x160
+                0x00000162                __TA0CCTL0 = 0x162
+                0x00000164                __TA0CCTL1 = 0x164
+                0x00000166                __TA0CCTL2 = 0x166
+                0x00000170                __TA0R = 0x170
+                0x00000172                __TA0CCR0 = 0x172
+                0x00000174                __TA0CCR1 = 0x174
+                0x00000176                __TA0CCR2 = 0x176
+                0x0000011e                __TA1IV = 0x11e
+                0x00000180                __TA1CTL = 0x180
+                0x00000182                __TA1CCTL0 = 0x182
+                0x00000184                __TA1CCTL1 = 0x184
+                0x00000186                __TA1CCTL2 = 0x186
+                0x00000190                __TA1R = 0x190
+                0x00000192                __TA1CCR0 = 0x192
+                0x00000194                __TA1CCR1 = 0x194
+                0x00000196                __TA1CCR2 = 0x196
+                0x00000060                __UCA0CTL0 = 0x60
+                0x00000061                __UCA0CTL1 = 0x61
+                0x00000062                __UCA0BR0 = 0x62
+                0x00000063                __UCA0BR1 = 0x63
+                0x00000064                __UCA0MCTL = 0x64
+                0x00000065                __UCA0STAT = 0x65
+                0x00000066                __UCA0RXBUF = 0x66
+                0x00000067                __UCA0TXBUF = 0x67
+                0x0000005d                __UCA0ABCTL = 0x5d
+                0x0000005e                __UCA0IRTCTL = 0x5e
+                0x0000005f                __UCA0IRRCTL = 0x5f
+                0x00000068                __UCB0CTL0 = 0x68
+                0x00000069                __UCB0CTL1 = 0x69
+                0x0000006a                __UCB0BR0 = 0x6a
+                0x0000006b                __UCB0BR1 = 0x6b
+                0x0000006c                __UCB0I2CIE = 0x6c
+                0x0000006d                __UCB0STAT = 0x6d
+                0x0000006e                __UCB0RXBUF = 0x6e
+                0x0000006f                __UCB0TXBUF = 0x6f
+                0x00000118                __UCB0I2COA = 0x118
+                0x0000011a                __UCB0I2CSA = 0x11a
+                0x00000120                __WDTCTL = 0x120
+                0x000010f8                __CALDCO_16MHZ = 0x10f8
+                0x000010f9                __CALBC1_16MHZ = 0x10f9
+                0x000010fa                __CALDCO_12MHZ = 0x10fa
+                0x000010fb                __CALBC1_12MHZ = 0x10fb
+                0x000010fc                __CALDCO_8MHZ = 0x10fc
+                0x000010fd                __CALBC1_8MHZ = 0x10fd
+                0x000010fe                __CALDCO_1MHZ = 0x10fe
+                0x000010ff                __CALBC1_1MHZ = 0x10ff
+                0x000010c0                __TLV_CHECKSUM = 0x10c0
+                0x000010f6                __TLV_DCO_30_TAG = 0x10f6
+                0x000010f7                __TLV_DCO_30_LEN = 0x10f7
+                0x000010da                __TLV_ADC10_1_TAG = 0x10da
+                0x000010db                __TLV_ADC10_1_LEN = 0x10db
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.text
+ *(.rel.text .rel.text.* .rel.gnu.linkonce.t.*)
+
+.rela.text
+ *(.rela.text .rela.text.* .rela.gnu.linkonce.t.*)
+
+.rel.rodata
+ *(.rel.rodata .rel.rodata.* .rel.gnu.linkonce.r.*)
+
+.rela.rodata
+ *(.rela.rodata .rela.rodata.* .rela.gnu.linkonce.r.*)
+
+.rel.data
+ *(.rel.data .rel.data.* .rel.gnu.linkonce.d.*)
+
+.rela.data
+ *(.rela.data .rela.data.* .rela.gnu.linkonce.d.*)
+
+.rel.bss
+ *(.rel.bss .rel.bss.* .rel.gnu.linkonce.b.*)
+
+.rela.bss
+ *(.rela.bss .rela.bss.* .rela.gnu.linkonce.b.*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x0000c000      0xc64
+                0x0000c000                . = ALIGN (0x2)
+ *(.init .init.*)
+ *(.init0)
+ .init0         0x0000c000        0x0 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(_reset_vector__.o)
+                0x0000c000                _reset_vector__
+ *(.init1)
+ .init1         0x0000c000        0xc c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(__watchdog_support.o)
+                0x0000c000                __watchdog_support
+ *(.init2)
+ .init2         0x0000c00c        0x4 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(__init_stack.o)
+                0x0000c00c                __init_stack
+ *(.init3)
+ .init3         0x0000c010        0x0 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(__low_level_init.o)
+                0x0000c010                __low_level_init
+ *(.init4)
+ .init4         0x0000c010       0x18 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(_copy_data.o)
+                0x0000c010                __do_copy_data
+ .init4         0x0000c028       0x16 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(_clear_bss.o)
+                0x0000c028                __do_clear_bss
+ *(.init5)
+ *(.init6)
+ .init6         0x0000c03e       0x14 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(_ctors430.o)
+                0x0000c03e                __do_global_ctors
+ *(.init7)
+ *(.init8)
+ *(.init9)
+ .init9         0x0000c052       0x24 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(main.o)
+                0x0000c052                main
+ *(.fini9)
+ .fini9         0x0000c076        0x0 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(__stop_progExec__.o)
+                0x0000c076                __stop_progExec__
+ *(.fini8)
+ *(.fini7)
+ *(.fini6)
+ *(.fini5)
+ *(.fini4)
+ *(.fini3)
+ *(.fini2)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x0000c076        0x6 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(_endless_loop__.o)
+                0x0000c076                _endless_loop__
+ *(.fini .fini.*)
+                0x0000c07c                . = ALIGN (0x2)
+                0x0000c07c                __ctors_start = .
+ *(.ctors)
+ .ctors         0x0000c07c        0x2 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(Wire.o)
+ .ctors         0x0000c07e        0x2 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(HardwareSerial.o)
+                0x0000c080                __ctors_end = .
+                0x0000c080                __dtors_start = .
+ *(.dtors)
+                0x0000c080                __dtors_end = .
+                0x0000c080                . = ALIGN (0x2)
+ *(.text .text.* .gnu.linkonce.t.*)
+ .text          0x0000c080        0x4 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/crt0ivtbl16.o
+                0x0000c080                __isr_14
+                0x0000c080                __isr_4
+                0x0000c080                __isr_11
+                0x0000c080                __isr_5
+                0x0000c080                __isr_2
+                0x0000c080                __isr_0
+                0x0000c080                __isr_8
+                0x0000c080                __isr_3
+                0x0000c080                __isr_12
+                0x0000c080                __isr_13
+                0x0000c080                __isr_9
+                0x0000c080                __isr_1
+ .text._Z8sendDatav
+                0x0000c084       0x12 ./I2C_Slave.o
+                0x0000c084                sendData()
+ .text._Z11receiveDatai
+                0x0000c096       0x1a ./I2C_Slave.o
+                0x0000c096                receiveData(int)
+ .text._Z5stateh
+                0x0000c0b0       0x68 ./I2C_Slave.o
+                0x0000c0b0                state(unsigned char)
+ .text.setup    0x0000c118       0x52 ./I2C_Slave.o
+                0x0000c118                setup
+ .text.loop     0x0000c16a       0xb2 ./I2C_Slave.o
+                0x0000c16a                loop
+ .text.enableXtal
+                0x0000c21c       0x62 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(wiring.o)
+                0x0000c21c                enableXtal
+ .text.initClocks
+                0x0000c27e       0x1c C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(wiring.o)
+                0x0000c27e                initClocks
+ .text.init     0x0000c29a       0x18 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(wiring.o)
+                0x0000c29a                init
+ .text.delay    0x0000c2b2       0x7e C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(wiring.o)
+                0x0000c2b2                delay
+ .text.watchdog_isr
+                0x0000c330       0x82 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(wiring.o)
+                0x0000c330                __isr_10
+                0x0000c330                watchdog_isr
+ .text.pinMode  0x0000c3b2       0x7a C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(wiring_digital.o)
+                0x0000c3b2                pinMode
+ .text.pinMode_int
+                0x0000c42c       0xa0 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(wiring_digital.o)
+                0x0000c42c                pinMode_int
+ .text.digitalRead
+                0x0000c4cc       0x42 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(wiring_digital.o)
+                0x0000c4cc                digitalRead
+ .text.digitalWrite
+                0x0000c50e       0x4a C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(wiring_digital.o)
+                0x0000c50e                digitalWrite
+ .text._ZN7TwoWire9availableEv
+                0x0000c558        0xc C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(Wire.o)
+                0x0000c558                TwoWire::available()
+ .text._ZN7TwoWire4readEv
+                0x0000c564       0x1c C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(Wire.o)
+                0x0000c564                TwoWire::read()
+ .text._ZN7TwoWire4peekEv
+                0x0000c580       0x16 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(Wire.o)
+                0x0000c580                TwoWire::peek()
+ .text._ZN7TwoWire5flushEv
+                0x0000c596        0x2 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(Wire.o)
+                0x0000c596                TwoWire::flush()
+ .text._ZN7TwoWire16onRequestServiceEv
+                0x0000c598       0x14 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(Wire.o)
+                0x0000c598                TwoWire::onRequestService()
+ .text._ZN7TwoWire5writeEPKhj
+                0x0000c5ac       0x4c C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(Wire.o)
+                0x0000c5ac                TwoWire::write(unsigned char const*, unsigned int)
+ .text._ZN7TwoWire5writeEh
+                0x0000c5f8       0x48 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(Wire.o)
+                0x0000c5f8                TwoWire::write(unsigned char)
+ .text._ZN7TwoWire16onReceiveServiceEPhi
+                0x0000c640       0x40 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(Wire.o)
+                0x0000c640                TwoWire::onReceiveService(unsigned char*, int)
+ .text._ZN7TwoWire5beginEv
+                0x0000c680       0x16 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(Wire.o)
+                0x0000c680                TwoWire::begin()
+ .text._ZN7TwoWire5beginEh
+                0x0000c696       0x24 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(Wire.o)
+                0x0000c696                TwoWire::begin(unsigned char)
+ .text._ZN7TwoWire5beginEi
+                0x0000c6ba        0x6 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(Wire.o)
+                0x0000c6ba                TwoWire::begin(int)
+ .text._ZN7TwoWire9onReceiveEPFviE
+                0x0000c6c0        0x6 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(Wire.o)
+                0x0000c6c0                TwoWire::onReceive(void (*)(int))
+ .text._ZN7TwoWire9onRequestEPFvvE
+                0x0000c6c6        0x6 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(Wire.o)
+                0x0000c6c6                TwoWire::onRequest(void (*)())
+ .text.startup._GLOBAL__sub_I__ZN7TwoWire8rxBufferE
+                0x0000c6cc       0x1a C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(Wire.o)
+ .text.twi_init
+                0x0000c6e6       0x9a C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(twi.o)
+                0x0000c6e6                twi_init
+ .text.twi_setAddress
+                0x0000c780       0x12 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(twi.o)
+                0x0000c780                twi_setAddress
+ .text.twi_transmit
+                0x0000c792       0x2e C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(twi.o)
+                0x0000c792                twi_transmit
+ .text.twi_attachSlaveRxEvent
+                0x0000c7c0        0x6 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(twi.o)
+                0x0000c7c0                twi_attachSlaveRxEvent
+ .text.twi_attachSlaveTxEvent
+                0x0000c7c6        0x6 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(twi.o)
+                0x0000c7c6                twi_attachSlaveTxEvent
+ .text.i2c_txrx_isr
+                0x0000c7cc      0x156 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(twi.o)
+                0x0000c7cc                i2c_txrx_isr
+ .text.i2c_state_isr
+                0x0000c922       0xe4 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(twi.o)
+                0x0000c922                i2c_state_isr
+ .text.usci_isr_install
+                0x0000ca06        0x2 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(usci_isr_handler.o)
+                0x0000ca06                usci_isr_install
+ .text.USCIAB0TX_ISR
+                0x0000ca08       0x66 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(usci_isr_handler.o)
+                0x0000ca08                USCIAB0TX_ISR
+                0x0000ca08                __isr_6
+ .text.USCIAB0RX_ISR
+                0x0000ca6e       0x58 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(usci_isr_handler.o)
+                0x0000ca6e                USCIAB0RX_ISR
+                0x0000ca6e                __isr_7
+ .text._ZN14HardwareSerial9availableEv
+                0x0000cac6       0x12 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(HardwareSerial.o)
+                0x0000cac6                HardwareSerial::available()
+ .text._ZN14HardwareSerial4peekEv
+                0x0000cad8       0x1e C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(HardwareSerial.o)
+                0x0000cad8                HardwareSerial::peek()
+ .text._ZN14HardwareSerial4readEv
+                0x0000caf6       0x2c C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(HardwareSerial.o)
+                0x0000caf6                HardwareSerial::read()
+ .text._ZN14HardwareSerial5flushEv
+                0x0000cb22       0x12 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(HardwareSerial.o)
+                0x0000cb22                HardwareSerial::flush()
+ .text._ZN14HardwareSerial5writeEh
+                0x0000cb34       0x3c C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(HardwareSerial.o)
+                0x0000cb34                HardwareSerial::write(unsigned char)
+ .text._Z11serialEventv
+                0x0000cb70        0x2 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(HardwareSerial.o)
+                0x0000cb70                serialEvent()
+ .text._Z14serialEventRunv
+                0x0000cb72       0x1a C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(HardwareSerial.o)
+                0x0000cb72                serialEventRun()
+ .text.uart_rx_isr
+                0x0000cb8c       0x28 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(HardwareSerial.o)
+                0x0000cb8c                uart_rx_isr
+ .text.uart_tx_isr
+                0x0000cbb4       0x3c C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(HardwareSerial.o)
+                0x0000cbb4                uart_tx_isr
+ .text.startup._GLOBAL__sub_I_rx_buffer
+                0x0000cbf0       0x44 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(HardwareSerial.o)
+ .text._ZN5Print5writeEPKhj
+                0x0000cc34       0x2e C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(Print.o)
+                0x0000cc34                Print::write(unsigned char const*, unsigned int)
+ .text.crt0     0x0000cc62        0x2 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(_unexpected_.o)
+                0x0000cc62                _unexpected_
+                0x0000cc64                . = ALIGN (0x2)
+
+.rodata         0x0000cc64       0x7a
+                0x0000cc64                . = ALIGN (0x2)
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata.digital_pin_to_bit_mask
+                0x0000cc64       0x15 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(wiring_digital.o)
+                0x0000cc64                digital_pin_to_bit_mask
+ .rodata.digital_pin_to_port
+                0x0000cc79       0x15 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(wiring_digital.o)
+                0x0000cc79                digital_pin_to_port
+ .rodata.port_to_sel2
+                0x0000cc8e        0x8 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(wiring_digital.o)
+                0x0000cc8e                port_to_sel2
+ .rodata.port_to_sel0
+                0x0000cc96        0x8 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(wiring_digital.o)
+                0x0000cc96                port_to_sel0
+ .rodata.port_to_ren
+                0x0000cc9e        0x8 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(wiring_digital.o)
+                0x0000cc9e                port_to_ren
+ .rodata.port_to_dir
+                0x0000cca6        0x8 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(wiring_digital.o)
+                0x0000cca6                port_to_dir
+ .rodata.port_to_output
+                0x0000ccae        0x8 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(wiring_digital.o)
+                0x0000ccae                port_to_output
+ .rodata.port_to_input
+                0x0000ccb6        0x8 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(wiring_digital.o)
+                0x0000ccb6                port_to_input
+ .rodata._ZTV7TwoWire
+                0x0000ccbe       0x10 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(Wire.o)
+                0x0000ccbe                vtable for TwoWire
+ .rodata._ZTV14HardwareSerial
+                0x0000ccce       0x10 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(HardwareSerial.o)
+                0x0000ccce                vtable for HardwareSerial
+                0x0000ccde                . = ALIGN (0x2)
+                0x0000ccde                _etext = .
+
+.data           0x00000200        0x2 load address 0x0000ccde
+                0x00000200                . = ALIGN (0x2)
+                0x00000200                PROVIDE (__data_start, .)
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data.I2C_baseAddress
+                0x00000200        0x2 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(twi.o)
+                0x00000200                I2C_baseAddress
+                0x00000202                . = ALIGN (0x2)
+                0x00000202                _edata = .
+                0x0000ccde                PROVIDE (__data_load_start, LOADADDR (.data))
+                0x00000002                PROVIDE (__data_size, SIZEOF (.data))
+
+.bss            0x00000202       0xce load address 0x0000cce0
+                0x00000202                PROVIDE (__bss_start, .)
+ *(.bss .bss.*)
+ .bss.shutdowning
+                0x00000202        0x1 ./I2C_Slave.o
+                0x00000202                shutdowning
+ *fill*         0x00000203        0x1 00
+ .bss.counter   0x00000204        0x2 ./I2C_Slave.o
+                0x00000204                counter
+ .bss.Mode      0x00000206        0x1 ./I2C_Slave.o
+                0x00000206                Mode
+ *fill*         0x00000207        0x1 00
+ .bss.vlo_freq  0x00000208        0x2 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(wiring.o)
+                0x00000208                vlo_freq
+ .bss.stay_asleep
+                0x0000020a        0x1 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(wiring.o)
+                0x0000020a                stay_asleep
+ .bss.sleeping  0x0000020b        0x1 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(wiring.o)
+                0x0000020b                sleeping
+ .bss.wdt_fract
+                0x0000020c        0x2 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(wiring.o)
+                0x0000020c                wdt_fract
+ .bss.wdt_millis
+                0x0000020e        0x4 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(wiring.o)
+                0x0000020e                wdt_millis
+ .bss.wdt_overflow_count
+                0x00000212        0x4 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(wiring.o)
+                0x00000212                wdt_overflow_count
+ .bss.Wire      0x00000216        0xc C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(Wire.o)
+                0x00000216                Wire
+ .bss._ZN7TwoWire14user_onReceiveE
+                0x00000222        0x2 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(Wire.o)
+                0x00000222                TwoWire::user_onReceive
+ .bss._ZN7TwoWire14user_onRequestE
+                0x00000224        0x2 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(Wire.o)
+                0x00000224                TwoWire::user_onRequest
+ .bss._ZN7TwoWire12transmittingE
+                0x00000226        0x1 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(Wire.o)
+                0x00000226                TwoWire::transmitting
+ .bss._ZN7TwoWire14txBufferLengthE
+                0x00000227        0x1 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(Wire.o)
+                0x00000227                TwoWire::txBufferLength
+ .bss._ZN7TwoWire13txBufferIndexE
+                0x00000228        0x1 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(Wire.o)
+                0x00000228                TwoWire::txBufferIndex
+ .bss._ZN7TwoWire8txBufferE
+                0x00000229       0x10 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(Wire.o)
+                0x00000229                TwoWire::txBuffer
+ .bss._ZN7TwoWire14rxBufferLengthE
+                0x00000239        0x1 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(Wire.o)
+                0x00000239                TwoWire::rxBufferLength
+ .bss._ZN7TwoWire13rxBufferIndexE
+                0x0000023a        0x1 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(Wire.o)
+                0x0000023a                TwoWire::rxBufferIndex
+ .bss._ZN7TwoWire8rxBufferE
+                0x0000023b       0x10 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(Wire.o)
+                0x0000023b                TwoWire::rxBuffer
+ .bss.twi_error
+                0x0000024b        0x1 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(twi.o)
+ .bss.twi_rxBufferIndex
+                0x0000024c        0x1 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(twi.o)
+ .bss.twi_txBufferLength
+                0x0000024d        0x1 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(twi.o)
+ .bss.twi_txBufferIndex
+                0x0000024e        0x1 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(twi.o)
+ .bss.twi_masterBufferIndex
+                0x0000024f        0x1 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(twi.o)
+ .bss.twi_inRepStart
+                0x00000250        0x1 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(twi.o)
+ .bss.twi_sendStop
+                0x00000251        0x1 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(twi.o)
+ .bss.twi_state
+                0x00000252        0x1 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(twi.o)
+ .bss.twi_masterBufferLength
+                0x00000253        0x1 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(twi.o)
+ .bss.twi_masterBuffer
+                0x00000254       0x10 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(twi.o)
+ .bss.twi_txBuffer
+                0x00000264       0x10 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(twi.o)
+ .bss.twi_onSlaveReceive
+                0x00000274        0x2 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(twi.o)
+ .bss.twi_onSlaveTransmit
+                0x00000276        0x2 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(twi.o)
+ .bss.twi_rxBuffer
+                0x00000278       0x10 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(twi.o)
+ .bss.still_asleep
+                0x00000288        0x1 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(usci_isr_handler.o)
+ *fill*         0x00000289        0x1 00
+ .bss.Serial    0x0000028a       0x1a C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(HardwareSerial.o)
+                0x0000028a                Serial
+ .bss.tx_buffer
+                0x000002a4       0x14 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(HardwareSerial.o)
+                0x000002a4                tx_buffer
+ .bss.rx_buffer
+                0x000002b8       0x14 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(HardwareSerial.o)
+                0x000002b8                rx_buffer
+ *(COMMON)
+ COMMON         0x000002cc        0x4 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(wiring.o)
+                0x000002cc                SMILLIS_INC
+                0x000002ce                SFRACT_INC
+                0x000002d0                . = ALIGN (0x2)
+                0x000002d0                PROVIDE (__bss_end, .)
+                0x000000ce                PROVIDE (__bss_size, SIZEOF (.bss))
+
+.noinit         0x000002d0        0x2 load address 0x0000cce0
+                0x000002d0                PROVIDE (__noinit_start, .)
+ *(.noinit .noinit.*)
+ .noinit.crt0   0x000002d0        0x2 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(__watchdog_support.o)
+                0x000002d0                __wdt_clear_value
+                0x000002d2                . = ALIGN (0x2)
+                0x000002d2                PROVIDE (__noinit_end, .)
+                0x000002d2                . = ALIGN (0x2)
+                0x000002d2                _end = .
+
+.infomem        0x00001000        0x0
+ *(.infomem)
+                0x00001000                . = ALIGN (0x2)
+ *(.infomem.*)
+
+.infomemnobits  0x00001000        0x0
+ *(.infomemnobits)
+                0x00001000                . = ALIGN (0x2)
+ *(.infomemnobits.*)
+
+.infoa
+ *(.infoa .infoa.*)
+
+.infob
+ *(.infob .infob.*)
+
+.infoc
+ *(.infoc .infoc.*)
+
+.infod
+ *(.infod .infod.*)
+
+.vectors        0x0000ffe0       0x20
+                0x0000ffe0                PROVIDE (__vectors_start, .)
+ *(.vectors*)
+ .vectors       0x0000ffe0       0x20 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/crt0ivtbl16.o
+                0x0000ffe0                __ivtbl_16
+                0x00010000                _vectors_end = .
+
+.fartext        0x00000000        0x0
+                0x00000000                . = ALIGN (0x2)
+ *(.fartext)
+                0x00000000                . = ALIGN (0x2)
+ *(.fartext.*)
+                0x00000000                _efartext = .
+
+.profiler
+ *(.profiler)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment
+ *(.comment)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x754
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x24 ./I2C_Slave.o
+ .debug_aranges
+                0x00000024       0x48 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(wiring.o)
+ .debug_aranges
+                0x0000006c       0x20 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(wiring_digital.o)
+ .debug_aranges
+                0x0000008c       0x14 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(main.o)
+ .debug_aranges
+                0x000000a0       0x74 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(Wire.o)
+ .debug_aranges
+                0x00000114       0x38 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(twi.o)
+ .debug_aranges
+                0x0000014c       0x1c C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(usci_isr_handler.o)
+ .debug_aranges
+                0x00000168       0x44 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(HardwareSerial.o)
+ .debug_aranges
+                0x000001ac       0x28 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(new.o)
+ .debug_aranges
+                0x000001d4       0x70 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(Print.o)
+ .debug_aranges
+                0x00000244      0x144 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(WString.o)
+ .debug_aranges
+                0x00000388       0x14 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(atof.o)
+ .debug_aranges
+                0x0000039c       0x14 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(dtostrf.o)
+ .debug_aranges
+                0x000003b0       0x20 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(itoa.o)
+ .debug_aranges
+                0x000003d0       0x14 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libm.a(ef_pow.o)
+ .debug_aranges
+                0x000003e4       0x14 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libm.a(sf_scalbn.o)
+ .debug_aranges
+                0x000003f8       0x14 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libm.a(ef_sqrt.o)
+ .debug_aranges
+                0x0000040c       0x14 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_mulqi3.o)
+ .debug_aranges
+                0x00000420       0x14 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_udivmod16.o)
+ .debug_aranges
+                0x00000434       0x14 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_udivmod32.o)
+ .debug_aranges
+                0x00000448       0x14 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_fixunssfsi.o)
+ .debug_aranges
+                0x0000045c       0x14 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_addsub_sf.o)
+ .debug_aranges
+                0x00000470       0x14 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_mul_sf.o)
+ .debug_aranges
+                0x00000484       0x14 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_div_sf.o)
+ .debug_aranges
+                0x00000498       0x14 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_gt_sf.o)
+ .debug_aranges
+                0x000004ac       0x14 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_ge_sf.o)
+ .debug_aranges
+                0x000004c0       0x14 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_lt_sf.o)
+ .debug_aranges
+                0x000004d4       0x14 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_le_sf.o)
+ .debug_aranges
+                0x000004e8       0x14 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_si_to_sf.o)
+ .debug_aranges
+                0x000004fc       0x14 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_sf_to_si.o)
+ .debug_aranges
+                0x00000510       0x14 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_usi_to_sf.o)
+ .debug_aranges
+                0x00000524       0x14 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_clzsi2.o)
+ .debug_aranges
+                0x00000538       0x14 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_pack_sf.o)
+ .debug_aranges
+                0x0000054c       0x14 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_unpack_sf.o)
+ .debug_aranges
+                0x00000560       0x14 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_fpcmp_parts_sf.o)
+ .debug_aranges
+                0x00000574       0x14 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strchr.o)
+ .debug_aranges
+                0x00000588       0x14 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strcmp.o)
+ .debug_aranges
+                0x0000059c       0x14 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strncmp.o)
+ .debug_aranges
+                0x000005b0       0x14 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strcpy.o)
+ .debug_aranges
+                0x000005c4       0x14 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strncpy.o)
+ .debug_aranges
+                0x000005d8       0x14 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(memcpy.o)
+ .debug_aranges
+                0x000005ec       0x14 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(memmove.o)
+ .debug_aranges
+                0x00000600       0x14 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strrchr.o)
+ .debug_aranges
+                0x00000614       0x14 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strstr.o)
+ .debug_aranges
+                0x00000628       0x14 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(atol.o)
+ .debug_aranges
+                0x0000063c       0x14 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(malloc.o)
+ .debug_aranges
+                0x00000650       0x14 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strtol.o)
+ .debug_aranges
+                0x00000664       0x14 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(sprintf.o)
+ .debug_aranges
+                0x00000678       0x14 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(vuprintf.o)
+ .debug_aranges
+                0x0000068c       0x14 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_mulsi3.o)
+ .debug_aranges
+                0x000006a0       0x14 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_divmod32.o)
+ .debug_aranges
+                0x000006b4       0x14 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_udivmod64.o)
+ .debug_aranges
+                0x000006c8       0x14 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(__watchdog_support.o)
+ .debug_aranges
+                0x000006dc       0x14 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(__init_stack.o)
+ .debug_aranges
+                0x000006f0       0x14 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(_copy_data.o)
+ .debug_aranges
+                0x00000704       0x14 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(_clear_bss.o)
+ .debug_aranges
+                0x00000718       0x14 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(_endless_loop__.o)
+ .debug_aranges
+                0x0000072c       0x14 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(_unexpected_.o)
+ .debug_aranges
+                0x00000740       0x14 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(_ctors430.o)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000     0xf578
+ *(.debug_info)
+ .debug_info    0x00000000      0x378 ./I2C_Slave.o
+ .debug_info    0x00000378      0x768 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(wiring.o)
+ .debug_info    0x00000ae0      0x8b4 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(wiring_digital.o)
+ .debug_info    0x00001394      0x277 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(main.o)
+ .debug_info    0x0000160b     0x1e77 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(Wire.o)
+ .debug_info    0x00003482      0x681 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(twi.o)
+ .debug_info    0x00003b03      0x31a C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(usci_isr_handler.o)
+ .debug_info    0x00003e1d     0x1b0f C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(HardwareSerial.o)
+ .debug_info    0x0000592c      0x140 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(new.o)
+ .debug_info    0x00005a6c     0x22c1 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(Print.o)
+ .debug_info    0x00007d2d     0x2a89 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(WString.o)
+ .debug_info    0x0000a7b6       0xd8 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(atof.o)
+ .debug_info    0x0000a88e      0x14d C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(dtostrf.o)
+ .debug_info    0x0000a9db      0x221 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(itoa.o)
+ .debug_info    0x0000abfc      0x5ea c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libm.a(ef_pow.o)
+ .debug_info    0x0000b1e6      0x1e4 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libm.a(sf_scalbn.o)
+ .debug_info    0x0000b3ca      0x208 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libm.a(ef_sqrt.o)
+ .debug_info    0x0000b5d2       0x8d c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_mulqi3.o)
+ .debug_info    0x0000b65f       0x8d c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_udivmod16.o)
+ .debug_info    0x0000b6ec       0x8d c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_udivmod32.o)
+ .debug_info    0x0000b779       0xb5 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_fixunssfsi.o)
+ .debug_info    0x0000b82e      0x425 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_addsub_sf.o)
+ .debug_info    0x0000bc53      0x3c9 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_mul_sf.o)
+ .debug_info    0x0000c01c      0x35c c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_div_sf.o)
+ .debug_info    0x0000c378      0x26e c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_gt_sf.o)
+ .debug_info    0x0000c5e6      0x26e c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_ge_sf.o)
+ .debug_info    0x0000c854      0x26e c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_lt_sf.o)
+ .debug_info    0x0000cac2      0x26e c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_le_sf.o)
+ .debug_info    0x0000cd30      0x20b c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_si_to_sf.o)
+ .debug_info    0x0000cf3b      0x289 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_sf_to_si.o)
+ .debug_info    0x0000d1c4      0x144 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_thenan_sf.o)
+ .debug_info    0x0000d308      0x204 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_usi_to_sf.o)
+ .debug_info    0x0000d50c      0x109 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_clzsi2.o)
+ .debug_info    0x0000d615      0x2b1 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_pack_sf.o)
+ .debug_info    0x0000d8c6      0x23e c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_unpack_sf.o)
+ .debug_info    0x0000db04      0x1d5 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_fpcmp_parts_sf.o)
+ .debug_info    0x0000dcd9       0xa0 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_clz.o)
+ .debug_info    0x0000dd79       0xa7 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strchr.o)
+ .debug_info    0x0000de20       0xa4 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strcmp.o)
+ .debug_info    0x0000dec4       0xbb c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strncmp.o)
+ .debug_info    0x0000df7f       0xb6 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strcpy.o)
+ .debug_info    0x0000e035       0xe1 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strncpy.o)
+ .debug_info    0x0000e116      0x113 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(memcpy.o)
+ .debug_info    0x0000e229      0x113 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(memmove.o)
+ .debug_info    0x0000e33c       0xb7 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strrchr.o)
+ .debug_info    0x0000e3f3       0xe0 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strstr.o)
+ .debug_info    0x0000e4d3       0x95 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(atol.o)
+ .debug_info    0x0000e568      0x151 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(malloc.o)
+ .debug_info    0x0000e6b9      0x1d7 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strtol.o)
+ .debug_info    0x0000e890      0x277 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(sprintf.o)
+ .debug_info    0x0000eb07      0x565 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(vuprintf.o)
+ .debug_info    0x0000f06c       0x39 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(errno.o)
+ .debug_info    0x0000f0a5       0x8d c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_mulsi3.o)
+ .debug_info    0x0000f132       0x8d c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_divmod32.o)
+ .debug_info    0x0000f1bf       0x8d c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_udivmod64.o)
+ .debug_info    0x0000f24c       0x74 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(__watchdog_support.o)
+ .debug_info    0x0000f2c0       0x74 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(__init_stack.o)
+ .debug_info    0x0000f334       0x74 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(_copy_data.o)
+ .debug_info    0x0000f3a8       0x74 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(_clear_bss.o)
+ .debug_info    0x0000f41c       0x74 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(_endless_loop__.o)
+ .debug_info    0x0000f490       0x74 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(_unexpected_.o)
+ .debug_info    0x0000f504       0x74 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(_ctors430.o)
+ *(.gnu.linkonce.wi.*)
+
+.debug_abbrev   0x00000000     0x3fb3
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x17b ./I2C_Slave.o
+ .debug_abbrev  0x0000017b      0x28e C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(wiring.o)
+ .debug_abbrev  0x00000409      0x17b C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(wiring_digital.o)
+ .debug_abbrev  0x00000584       0x91 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(main.o)
+ .debug_abbrev  0x00000615      0x437 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(Wire.o)
+ .debug_abbrev  0x00000a4c      0x1bd C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(twi.o)
+ .debug_abbrev  0x00000c09      0x104 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(usci_isr_handler.o)
+ .debug_abbrev  0x00000d0d      0x4a4 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(HardwareSerial.o)
+ .debug_abbrev  0x000011b1       0xee C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(new.o)
+ .debug_abbrev  0x0000129f      0x3a4 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(Print.o)
+ .debug_abbrev  0x00001643      0x3c7 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(WString.o)
+ .debug_abbrev  0x00001a0a       0x81 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(atof.o)
+ .debug_abbrev  0x00001a8b       0xeb C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(dtostrf.o)
+ .debug_abbrev  0x00001b76       0xaf C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(itoa.o)
+ .debug_abbrev  0x00001c25      0x140 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libm.a(ef_pow.o)
+ .debug_abbrev  0x00001d65       0xf4 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libm.a(sf_scalbn.o)
+ .debug_abbrev  0x00001e59      0x14a c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libm.a(ef_sqrt.o)
+ .debug_abbrev  0x00001fa3       0x14 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_mulqi3.o)
+ .debug_abbrev  0x00001fb7       0x14 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_udivmod16.o)
+ .debug_abbrev  0x00001fcb       0x14 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_udivmod32.o)
+ .debug_abbrev  0x00001fdf       0x5d c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_fixunssfsi.o)
+ .debug_abbrev  0x0000203c      0x1ab c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_addsub_sf.o)
+ .debug_abbrev  0x000021e7      0x1d9 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_mul_sf.o)
+ .debug_abbrev  0x000023c0      0x1c4 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_div_sf.o)
+ .debug_abbrev  0x00002584      0x151 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_gt_sf.o)
+ .debug_abbrev  0x000026d5      0x151 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_ge_sf.o)
+ .debug_abbrev  0x00002826      0x151 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_lt_sf.o)
+ .debug_abbrev  0x00002977      0x151 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_le_sf.o)
+ .debug_abbrev  0x00002ac8      0x164 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_si_to_sf.o)
+ .debug_abbrev  0x00002c2c      0x160 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_sf_to_si.o)
+ .debug_abbrev  0x00002d8c       0xba c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_thenan_sf.o)
+ .debug_abbrev  0x00002e46      0x173 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_usi_to_sf.o)
+ .debug_abbrev  0x00002fb9       0xac c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_clzsi2.o)
+ .debug_abbrev  0x00003065      0x192 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_pack_sf.o)
+ .debug_abbrev  0x000031f7      0x15a c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_unpack_sf.o)
+ .debug_abbrev  0x00003351      0x10b c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_fpcmp_parts_sf.o)
+ .debug_abbrev  0x0000345c       0x61 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_clz.o)
+ .debug_abbrev  0x000034bd       0x6f c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strchr.o)
+ .debug_abbrev  0x0000352c       0x60 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strcmp.o)
+ .debug_abbrev  0x0000358c       0x7c c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strncmp.o)
+ .debug_abbrev  0x00003608       0x7e c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strcpy.o)
+ .debug_abbrev  0x00003686       0x94 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strncpy.o)
+ .debug_abbrev  0x0000371a       0x97 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(memcpy.o)
+ .debug_abbrev  0x000037b1       0x97 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(memmove.o)
+ .debug_abbrev  0x00003848       0x7e c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strrchr.o)
+ .debug_abbrev  0x000038c6       0x8b c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strstr.o)
+ .debug_abbrev  0x00003951       0x60 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(atol.o)
+ .debug_abbrev  0x000039b1      0x104 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(malloc.o)
+ .debug_abbrev  0x00003ab5      0x112 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strtol.o)
+ .debug_abbrev  0x00003bc7      0x105 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(sprintf.o)
+ .debug_abbrev  0x00003ccc      0x1ef c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(vuprintf.o)
+ .debug_abbrev  0x00003ebb       0x30 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(errno.o)
+ .debug_abbrev  0x00003eeb       0x14 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_mulsi3.o)
+ .debug_abbrev  0x00003eff       0x14 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_divmod32.o)
+ .debug_abbrev  0x00003f13       0x14 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_udivmod64.o)
+ .debug_abbrev  0x00003f27       0x14 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(__watchdog_support.o)
+ .debug_abbrev  0x00003f3b       0x14 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(__init_stack.o)
+ .debug_abbrev  0x00003f4f       0x14 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(_copy_data.o)
+ .debug_abbrev  0x00003f63       0x14 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(_clear_bss.o)
+ .debug_abbrev  0x00003f77       0x14 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(_endless_loop__.o)
+ .debug_abbrev  0x00003f8b       0x14 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(_unexpected_.o)
+ .debug_abbrev  0x00003f9f       0x14 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(_ctors430.o)
+
+.debug_line     0x00000000     0x43dc
+ *(.debug_line)
+ .debug_line    0x00000000      0x22f ./I2C_Slave.o
+ .debug_line    0x0000022f      0x346 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(wiring.o)
+ .debug_line    0x00000575      0x226 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(wiring_digital.o)
+ .debug_line    0x0000079b      0x173 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(main.o)
+ .debug_line    0x0000090e      0x398 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(Wire.o)
+ .debug_line    0x00000ca6      0x304 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(twi.o)
+ .debug_line    0x00000faa      0x1cf C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(usci_isr_handler.o)
+ .debug_line    0x00001179      0x34c C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(HardwareSerial.o)
+ .debug_line    0x000014c5      0x13a C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(new.o)
+ .debug_line    0x000015ff      0x455 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(Print.o)
+ .debug_line    0x00001a54      0x814 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(WString.o)
+ .debug_line    0x00002268       0xee C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(atof.o)
+ .debug_line    0x00002356      0x123 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(dtostrf.o)
+ .debug_line    0x00002479      0x108 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(itoa.o)
+ .debug_line    0x00002581      0x1c6 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libm.a(ef_pow.o)
+ .debug_line    0x00002747       0x97 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libm.a(sf_scalbn.o)
+ .debug_line    0x000027de       0xb7 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libm.a(ef_sqrt.o)
+ .debug_line    0x00002895       0x73 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_mulqi3.o)
+ .debug_line    0x00002908       0x77 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_udivmod16.o)
+ .debug_line    0x0000297f       0x86 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_udivmod32.o)
+ .debug_line    0x00002a05       0x6f c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_fixunssfsi.o)
+ .debug_line    0x00002a74      0x117 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_addsub_sf.o)
+ .debug_line    0x00002b8b      0x10f c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_mul_sf.o)
+ .debug_line    0x00002c9a       0xd1 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_div_sf.o)
+ .debug_line    0x00002d6b       0x89 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_gt_sf.o)
+ .debug_line    0x00002df4       0x89 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_ge_sf.o)
+ .debug_line    0x00002e7d       0x89 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_lt_sf.o)
+ .debug_line    0x00002f06       0x89 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_le_sf.o)
+ .debug_line    0x00002f8f       0xa1 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_si_to_sf.o)
+ .debug_line    0x00003030       0x97 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_sf_to_si.o)
+ .debug_line    0x000030c7       0x6c c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_thenan_sf.o)
+ .debug_line    0x00003133       0x9e c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_usi_to_sf.o)
+ .debug_line    0x000031d1       0x99 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_clzsi2.o)
+ .debug_line    0x0000326a       0xda c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_pack_sf.o)
+ .debug_line    0x00003344       0xb5 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_unpack_sf.o)
+ .debug_line    0x000033f9       0xc0 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_fpcmp_parts_sf.o)
+ .debug_line    0x000034b9       0x5b c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_clz.o)
+ .debug_line    0x00003514       0x44 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strchr.o)
+ .debug_line    0x00003558       0x49 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strcmp.o)
+ .debug_line    0x000035a1       0x82 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strncmp.o)
+ .debug_line    0x00003623       0x4d c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strcpy.o)
+ .debug_line    0x00003670       0x85 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strncpy.o)
+ .debug_line    0x000036f5       0xf6 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(memcpy.o)
+ .debug_line    0x000037eb       0xf6 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(memmove.o)
+ .debug_line    0x000038e1       0x47 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strrchr.o)
+ .debug_line    0x00003928       0x86 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strstr.o)
+ .debug_line    0x000039ae       0x3d c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(atol.o)
+ .debug_line    0x000039eb       0xce c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(malloc.o)
+ .debug_line    0x00003ab9      0x10b c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strtol.o)
+ .debug_line    0x00003bc4       0xa9 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(sprintf.o)
+ .debug_line    0x00003c6d      0x2df c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(vuprintf.o)
+ .debug_line    0x00003f4c       0x31 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(errno.o)
+ .debug_line    0x00003f7d       0x7e c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_mulsi3.o)
+ .debug_line    0x00003ffb       0x8b c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_divmod32.o)
+ .debug_line    0x00004086       0xcc c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_udivmod64.o)
+ .debug_line    0x00004152       0x5c c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(__watchdog_support.o)
+ .debug_line    0x000041ae       0x5a c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(__init_stack.o)
+ .debug_line    0x00004208       0x60 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(_copy_data.o)
+ .debug_line    0x00004268       0x60 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(_clear_bss.o)
+ .debug_line    0x000042c8       0x5b c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(_endless_loop__.o)
+ .debug_line    0x00004323       0x5a c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(_unexpected_.o)
+ .debug_line    0x0000437d       0x5f c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libcrt0.a(_ctors430.o)
+
+.debug_frame    0x00000000     0x1ae2
+ *(.debug_frame)
+ .debug_frame   0x00000000       0x58 ./I2C_Slave.o
+ .debug_frame   0x00000058      0x14c C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(wiring.o)
+ .debug_frame   0x000001a4       0x94 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(wiring_digital.o)
+ .debug_frame   0x00000238       0x1e C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(main.o)
+ .debug_frame   0x00000256      0x19c C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(Wire.o)
+ .debug_frame   0x000003f2       0xd4 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(twi.o)
+ .debug_frame   0x000004c6       0x7e C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(usci_isr_handler.o)
+ .debug_frame   0x00000544       0xe6 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(HardwareSerial.o)
+ .debug_frame   0x0000062a       0x5a C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(new.o)
+ .debug_frame   0x00000684      0x398 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(Print.o)
+ .debug_frame   0x00000a1c      0x7da C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(WString.o)
+ .debug_frame   0x000011f6       0x6e C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(atof.o)
+ .debug_frame   0x00001264       0x82 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(dtostrf.o)
+ .debug_frame   0x000012e6       0xec C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(itoa.o)
+ .debug_frame   0x000013d2       0x56 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libm.a(ef_pow.o)
+ .debug_frame   0x00001428       0x44 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libm.a(sf_scalbn.o)
+ .debug_frame   0x0000146c       0x62 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libm.a(ef_sqrt.o)
+ .debug_frame   0x000014ce       0x28 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_fixunssfsi.o)
+ .debug_frame   0x000014f6       0x6a c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_addsub_sf.o)
+ .debug_frame   0x00001560       0x4a c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_mul_sf.o)
+ .debug_frame   0x000015aa       0x3a c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_div_sf.o)
+ .debug_frame   0x000015e4       0x22 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_gt_sf.o)
+ .debug_frame   0x00001606       0x22 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_ge_sf.o)
+ .debug_frame   0x00001628       0x22 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_lt_sf.o)
+ .debug_frame   0x0000164a       0x22 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_le_sf.o)
+ .debug_frame   0x0000166c       0x2c c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_si_to_sf.o)
+ .debug_frame   0x00001698       0x22 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_sf_to_si.o)
+ .debug_frame   0x000016ba       0x36 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_usi_to_sf.o)
+ .debug_frame   0x000016f0       0x2e c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_clzsi2.o)
+ .debug_frame   0x0000171e       0x38 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_pack_sf.o)
+ .debug_frame   0x00001756       0x28 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_unpack_sf.o)
+ .debug_frame   0x0000177e       0x24 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_fpcmp_parts_sf.o)
+ .debug_frame   0x000017a2       0x1e c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strchr.o)
+ .debug_frame   0x000017c0       0x1e c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strcmp.o)
+ .debug_frame   0x000017de       0x24 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strncmp.o)
+ .debug_frame   0x00001802       0x1e c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strcpy.o)
+ .debug_frame   0x00001820       0x24 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strncpy.o)
+ .debug_frame   0x00001844       0x38 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(memcpy.o)
+ .debug_frame   0x0000187c       0x38 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(memmove.o)
+ .debug_frame   0x000018b4       0x24 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strrchr.o)
+ .debug_frame   0x000018d8       0x38 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strstr.o)
+ .debug_frame   0x00001910       0x1e c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(atol.o)
+ .debug_frame   0x0000192e       0x52 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(malloc.o)
+ .debug_frame   0x00001980       0x4a c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strtol.o)
+ .debug_frame   0x000019ca       0x68 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(sprintf.o)
+ .debug_frame   0x00001a32       0xb0 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(vuprintf.o)
+
+.debug_str      0x00000000     0x2f85
+ *(.debug_str)
+ .debug_str     0x00000000      0x214 ./I2C_Slave.o
+                                0x268 (size before relaxing)
+ .debug_str     0x00000214      0x208 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(wiring.o)
+                                0x3d7 (size before relaxing)
+ .debug_str     0x0000041c      0x47d C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(wiring_digital.o)
+                                0x698 (size before relaxing)
+ .debug_str     0x00000899       0x97 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(main.o)
+                                0x234 (size before relaxing)
+ .debug_str     0x00000930     0x1047 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(Wire.o)
+                               0x1246 (size before relaxing)
+ .debug_str     0x00001977      0x284 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(twi.o)
+                                0x4a5 (size before relaxing)
+ .debug_str     0x00001bfb       0x98 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(usci_isr_handler.o)
+                                0x285 (size before relaxing)
+ .debug_str     0x00001c93      0x2bb C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(HardwareSerial.o)
+                               0x10b6 (size before relaxing)
+ .debug_str     0x00001f4e       0xd2 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(new.o)
+                                0x19e (size before relaxing)
+ .debug_str     0x00002020      0x3a4 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(Print.o)
+                                0xea3 (size before relaxing)
+ .debug_str     0x000023c4      0x254 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(WString.o)
+                                0xc3b (size before relaxing)
+ .debug_str     0x00002618       0x6e C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(atof.o)
+                                 0xd1 (size before relaxing)
+ .debug_str     0x00002686       0x7a C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(dtostrf.o)
+                                0x1a8 (size before relaxing)
+ .debug_str     0x00002700       0x68 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(itoa.o)
+                                0x13d (size before relaxing)
+ .debug_str     0x00002768       0xcc c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libm.a(ef_pow.o)
+                                0x197 (size before relaxing)
+ .debug_str     0x00002834       0x2f c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libm.a(sf_scalbn.o)
+                                0x15a (size before relaxing)
+ .debug_str     0x00002863       0x26 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libm.a(ef_sqrt.o)
+                                0x152 (size before relaxing)
+ .debug_str     0x00002889       0x86 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_fixunssfsi.o)
+                                0x13e (size before relaxing)
+ .debug_str     0x0000290f      0x13d c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_addsub_sf.o)
+                                0x238 (size before relaxing)
+ .debug_str     0x00002a4c       0x27 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_mul_sf.o)
+                                0x1f1 (size before relaxing)
+ .debug_str     0x00002a73       0x35 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_div_sf.o)
+                                0x1fa (size before relaxing)
+ .debug_str     0x00002aa8        0x8 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_gt_sf.o)
+                                0x1bf (size before relaxing)
+ .debug_str     0x00002ab0        0x8 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_ge_sf.o)
+                                0x1bf (size before relaxing)
+ .debug_str     0x00002ab8        0x8 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_lt_sf.o)
+                                0x1bf (size before relaxing)
+ .debug_str     0x00002ac0        0x8 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_le_sf.o)
+                                0x1bf (size before relaxing)
+ .debug_str     0x00002ac8       0x27 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_si_to_sf.o)
+                                0x1ae (size before relaxing)
+ .debug_str     0x00002aef        0xa c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_sf_to_si.o)
+                                0x1c8 (size before relaxing)
+ .debug_str     0x00000000      0x16a c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_thenan_sf.o)
+ .debug_str     0x00002af9        0xe c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_usi_to_sf.o)
+                                0x1aa (size before relaxing)
+ .debug_str     0x00002b07       0x17 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_clzsi2.o)
+                                0x14a (size before relaxing)
+ .debug_str     0x00002b1e       0x10 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_pack_sf.o)
+                                0x1c7 (size before relaxing)
+ .debug_str     0x00002b2e        0xb c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_unpack_sf.o)
+                                0x1a9 (size before relaxing)
+ .debug_str     0x00002b39       0x10 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_fpcmp_parts_sf.o)
+                                0x18d (size before relaxing)
+ .debug_str     0x00000000      0x12d c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_clz.o)
+ .debug_str     0x00002b49       0x19 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strchr.o)
+                                 0xfd (size before relaxing)
+ .debug_str     0x00002b62       0x19 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strcmp.o)
+                                 0xfd (size before relaxing)
+ .debug_str     0x00002b7b       0x1b c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strncmp.o)
+                                0x106 (size before relaxing)
+ .debug_str     0x00002b96       0x23 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strcpy.o)
+                                0x107 (size before relaxing)
+ .debug_str     0x00002bb9       0x1b c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strncpy.o)
+                                0x106 (size before relaxing)
+ .debug_str     0x00002bd4       0x28 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(memcpy.o)
+                                0x11f (size before relaxing)
+ .debug_str     0x00002bfc       0x1b c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(memmove.o)
+                                0x121 (size before relaxing)
+ .debug_str     0x00002c17       0x1b c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strrchr.o)
+                                0x104 (size before relaxing)
+ .debug_str     0x00002c32       0x19 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strstr.o)
+                                0x109 (size before relaxing)
+ .debug_str     0x00002c4b       0x15 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(atol.o)
+                                 0xf9 (size before relaxing)
+ .debug_str     0x00002c60       0x55 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(malloc.o)
+                                0x145 (size before relaxing)
+ .debug_str     0x00002cb5       0x47 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strtol.o)
+                                0x138 (size before relaxing)
+ .debug_str     0x00002cfc       0x85 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(sprintf.o)
+                                0x198 (size before relaxing)
+ .debug_str     0x00002d81      0x1f3 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(vuprintf.o)
+                                0x37e (size before relaxing)
+ .debug_str     0x00002f74       0x11 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(errno.o)
+                                 0x7c (size before relaxing)
+
+.debug_loc      0x00000000     0x4c6f
+ *(.debug_loc)
+ .debug_loc     0x00000000       0x3f ./I2C_Slave.o
+ .debug_loc     0x0000003f      0x1aa C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(wiring.o)
+ .debug_loc     0x000001e9      0x246 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(wiring_digital.o)
+ .debug_loc     0x0000042f      0x23c C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(Wire.o)
+ .debug_loc     0x0000066b       0xc4 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(twi.o)
+ .debug_loc     0x0000072f       0x2b C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(usci_isr_handler.o)
+ .debug_loc     0x0000075a      0x168 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(HardwareSerial.o)
+ .debug_loc     0x000008c2       0x21 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(new.o)
+ .debug_loc     0x000008e3      0x82c C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(Print.o)
+ .debug_loc     0x0000110f     0x1113 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(WString.o)
+ .debug_loc     0x00002222      0x17c C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(atof.o)
+ .debug_loc     0x0000239e       0x73 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(dtostrf.o)
+ .debug_loc     0x00002411      0x25b C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(itoa.o)
+ .debug_loc     0x0000266c      0x6d7 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libm.a(ef_pow.o)
+ .debug_loc     0x00002d43      0x16d c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libm.a(sf_scalbn.o)
+ .debug_loc     0x00002eb0      0x1b4 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libm.a(ef_sqrt.o)
+ .debug_loc     0x00003064       0x44 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_fixunssfsi.o)
+ .debug_loc     0x000030a8      0x2ca c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_addsub_sf.o)
+ .debug_loc     0x00003372      0x23c c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_mul_sf.o)
+ .debug_loc     0x000035ae      0x110 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_div_sf.o)
+ .debug_loc     0x000036be       0x3c c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_gt_sf.o)
+ .debug_loc     0x000036fa       0x3c c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_ge_sf.o)
+ .debug_loc     0x00003736       0x3c c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_lt_sf.o)
+ .debug_loc     0x00003772       0x3c c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_le_sf.o)
+ .debug_loc     0x000037ae       0xa2 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_si_to_sf.o)
+ .debug_loc     0x00003850       0x3c c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_sf_to_si.o)
+ .debug_loc     0x0000388c       0x6c c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_usi_to_sf.o)
+ .debug_loc     0x000038f8       0x80 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_clzsi2.o)
+ .debug_loc     0x00003978      0x181 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_pack_sf.o)
+ .debug_loc     0x00003af9       0x83 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_unpack_sf.o)
+ .debug_loc     0x00003b7c       0x5b c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_fpcmp_parts_sf.o)
+ .debug_loc     0x00003bd7        0xb c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strchr.o)
+ .debug_loc     0x00003be2       0x24 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strcmp.o)
+ .debug_loc     0x00003c06       0x38 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strncmp.o)
+ .debug_loc     0x00003c3e       0x12 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strcpy.o)
+ .debug_loc     0x00003c50       0x45 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strncpy.o)
+ .debug_loc     0x00003c95      0x1e9 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(memcpy.o)
+ .debug_loc     0x00003e7e      0x1e9 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(memmove.o)
+ .debug_loc     0x00004067       0x39 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strrchr.o)
+ .debug_loc     0x000040a0       0xa9 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strstr.o)
+ .debug_loc     0x00004149        0xb c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(atol.o)
+ .debug_loc     0x00004154      0x12e c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(malloc.o)
+ .debug_loc     0x00004282      0x1f6 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(strtol.o)
+ .debug_loc     0x00004478       0xeb c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(sprintf.o)
+ .debug_loc     0x00004563      0x70c c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(vuprintf.o)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x00000000      0x558
+ *(.debug_ranges)
+ .debug_ranges  0x00000000       0x18 ./I2C_Slave.o
+ .debug_ranges  0x00000018       0x54 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(wiring.o)
+ .debug_ranges  0x0000006c       0x14 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(wiring_digital.o)
+ .debug_ranges  0x00000080        0x8 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(main.o)
+ .debug_ranges  0x00000088       0x74 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(Wire.o)
+ .debug_ranges  0x000000fc       0x38 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(twi.o)
+ .debug_ranges  0x00000134       0x10 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(usci_isr_handler.o)
+ .debug_ranges  0x00000144       0x44 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(HardwareSerial.o)
+ .debug_ranges  0x00000188       0x1c C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(new.o)
+ .debug_ranges  0x000001a4       0xa0 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(Print.o)
+ .debug_ranges  0x00000244      0x248 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(WString.o)
+ .debug_ranges  0x0000048c       0x20 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(atof.o)
+ .debug_ranges  0x000004ac        0x8 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(dtostrf.o)
+ .debug_ranges  0x000004b4       0x14 C:/Users/ErnestoVM/Documents/CCS/MSP-EXP430G2553LP_core/Debug\libMSP-EXP430G2553LP_core.a(itoa.o)
+ .debug_ranges  0x000004c8       0x14 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_addsub_sf.o)
+ .debug_ranges  0x000004dc       0x28 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_mul_sf.o)
+ .debug_ranges  0x00000504       0x24 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_div_sf.o)
+ .debug_ranges  0x00000528        0xc c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3\libgcc.a(_clzsi2.o)
+ .debug_ranges  0x00000534        0xc c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(malloc.o)
+ .debug_ranges  0x00000540       0x18 c:/ti/tirex-content/energia-1.6.10e18/hardware/tools/msp430/bin/../lib/gcc/msp430/4.6.3/../../../../msp430/lib\libc.a(vuprintf.o)
+                0x00000400                PROVIDE (__stack, (ORIGIN (ram) + 0x200))
+                0x0000ccde                PROVIDE (__data_start_rom, _etext)
+                0x0000cce0                PROVIDE (__data_end_rom, (_etext + SIZEOF (.data)))
+OUTPUT(I2C_Slave.out elf32-msp430)

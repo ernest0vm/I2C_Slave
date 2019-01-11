@@ -1,0 +1,1 @@
+"./I2C_Slave.o" -Wl,--start-group -lMSP-EXP430G2553LP_core -lm -Wl,--end-group 
